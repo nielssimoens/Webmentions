@@ -14,13 +14,10 @@ export default function Header() {
             <a>About</a>
           </Link>
 
-          <Link href="https://www.reddit.com/user/Niels_23_10_7/" rel="me">
-            <a>Reddit</a>
-          </Link>
+          <a href="https://www.reddit.com/user/Niels_23_10_7/" rel="me">Reddit</a>
+            
 
-          <Link href="https://github.com/nielssimoens" rel="me">
-            <a>Github</a>
-          </Link>
+          <a href="https://github.com/nielssimoens" rel="me">Github</a>
 
         </nav>
       </header>

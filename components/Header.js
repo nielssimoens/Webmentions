@@ -5,12 +5,23 @@ export default function Header() {
     <>
       <header className="header">
         <nav className="nav" role="navigation" aria-label="main navigation">
+
           <Link href="/">
             <a>Demo Blog</a>
           </Link>
+
           <Link href="/about">
             <a>About</a>
           </Link>
+
+          <Link href="https://www.reddit.com/user/Niels_23_10_7/" rel='me'>
+            <a>Reddit</a>
+          </Link>
+
+          <Link href="https://github.com/nielssimoens/Webmentions" rel='me'>
+            <a>Github</a>
+          </Link>
+
         </nav>
       </header>
       <style jsx>{`

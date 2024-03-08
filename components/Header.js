@@ -14,11 +14,11 @@ export default function Header() {
             <a>About</a>
           </Link>
 
-          <Link href="https://www.reddit.com/user/Niels_23_10_7/" rel='me'>
+          <Link href="https://www.reddit.com/user/Niels_23_10_7/" rel="me">
             <a>Reddit</a>
           </Link>
 
-          <Link href="https://github.com/nielssimoens/Webmentions" rel='me'>
+          <Link href="https://github.com/nielssimoens" rel="me">
             <a>Github</a>
           </Link>
 
